@@ -1,0 +1,10 @@
+D:\projects\10\1\IgniteConnectionTest\obj\Debug\netcoreapp2.2\IgniteConnectionTest.csproj.CoreCompileInputs.cache
+D:\projects\10\1\IgniteConnectionTest\obj\Debug\netcoreapp2.2\IgniteConnectionTest.AssemblyInfoInputs.cache
+D:\projects\10\1\IgniteConnectionTest\obj\Debug\netcoreapp2.2\IgniteConnectionTest.AssemblyInfo.cs
+D:\projects\10\1\IgniteConnectionTest\bin\Debug\netcoreapp2.2\IgniteConnectionTest.deps.json
+D:\projects\10\1\IgniteConnectionTest\bin\Debug\netcoreapp2.2\IgniteConnectionTest.runtimeconfig.json
+D:\projects\10\1\IgniteConnectionTest\bin\Debug\netcoreapp2.2\IgniteConnectionTest.runtimeconfig.dev.json
+D:\projects\10\1\IgniteConnectionTest\bin\Debug\netcoreapp2.2\IgniteConnectionTest.dll
+D:\projects\10\1\IgniteConnectionTest\bin\Debug\netcoreapp2.2\IgniteConnectionTest.pdb
+D:\projects\10\1\IgniteConnectionTest\obj\Debug\netcoreapp2.2\IgniteConnectionTest.dll
+D:\projects\10\1\IgniteConnectionTest\obj\Debug\netcoreapp2.2\IgniteConnectionTest.pdb
